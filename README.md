@@ -6,8 +6,7 @@ Folder structure:
   - Indovina il numero
   - Ricerca matrice
   - Tabelline
- 
--Methods
-  -Gestore finanziario
+- Methods
+  - Gestore finanziario
 
 
